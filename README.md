@@ -67,15 +67,6 @@ Cuento con una amplia trayectoria empírica en el área de soporte técnico, rep
 
 ---
 
-## 📈 Estadísticas Globales
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_ESTUDIANTE_USER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_ESTUDIANTE_USER&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados" height="195px" />
-</p>
-
----
-
 ## 🤝 Conectemos y Colaboremos
 
 Si estás buscando optimizar la infraestructura de tus equipos, desarrollar herramientas de automatización a medida, resolver problemas complejos de hardware o maquetar tu próximo proyecto web, no dudes en escribirme. 
