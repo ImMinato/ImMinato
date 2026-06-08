@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=250&section=header&text=JoaquinLmao&fontSize=90&animation=fadeIn&theme=tokyonight" alt="Header" />
-</p>
-
 <h1 align="center">🚀 Técnico & Futuro Ingeniero en Informática</h1>
 
 <p align="center">
