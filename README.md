@@ -45,6 +45,3 @@ Me apasiona el rendimiento extremo. Me especializo en la automatización de proc
 - 💬 Preguntame sobre: **C#, Python, scripts Batch/PowerShell, reparación de PC, optimización de Windows o desarrollo web.**
 - 💼 Discord: machimuspr
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imminato&show_icons=true&theme=tokyonight" alt="Mis estadísticas de GitHub" />
-</p>
